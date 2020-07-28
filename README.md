@@ -2,3 +2,4 @@
 
 📊 **This week I spent my time on**
 <img src="https://github.com/wkosmos/wkosmos/blob/master/images/stat.svg" alt="wkosmos wakatime activity"/>
+
